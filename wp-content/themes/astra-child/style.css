@@ -1,0 +1,17 @@
+/*
+Theme Name: Astra Child
+Theme URI: https://wpastra.com/
+Description: Thème enfant Astra pour le site de produits électroniques
+Author: Jean Daniel
+Author URI: Votre site web
+Template: astra
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astra-child
+*/
+
+/* Importez les styles du thème parent */
+@import url("../astra/style.css");
+
+/* Vos personnalisations CSS commencent ici */

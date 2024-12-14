@@ -1,0 +1,49 @@
+# WordPress core files
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/cache/
+wp-content/backups/
+wp-content/wflogs/
+wp-content/updraft/
+
+# WordPress debug logs
+debug.log
+
+# Local development files
+.env
+*.log
+.htaccess
+
+# Database dumps
+*.sql
+*.sql.gz
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node modules and build files
+node_modules/
+build/
+dist/
+
+# Composer dependencies
+vendor/
+
+# Security keys and certificates
+*.pem
+*.key
+*.crt
